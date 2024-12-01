@@ -1,0 +1,1 @@
+Developed a library chatbot designed to assist users with book searches, queries, and library-related information, leveraging AI techniques to enhance user experience and efficiency using Python, LangChain, Gemini, Streamlit .
